@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galaxy on GDS</title>
+    <link>/tags/galaxy/</link>
+    <description>Recent content in Galaxy on GDS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 Sep 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/galaxy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Get familiar with GalaxyPorject</title>
+      <link>/2017/09/07/get-familiar-with-galaxyporject/</link>
+      <pubDate>Thu, 07 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/09/07/get-familiar-with-galaxyporject/</guid>
+      <description>Data intensive biology for everyone  </description>
+    </item>
+    
+  </channel>
+</rss>
