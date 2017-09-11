@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bioinformatics on GDS</title>
-    <link>/tags/bioinformatics/</link>
-    <description>Recent content in Bioinformatics on GDS</description>
+    <title>Galaxy Project on GDS</title>
+    <link>/tags/galaxy-project/</link>
+    <description>Recent content in Galaxy Project on GDS</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 07 Sep 2017 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="/tags/bioinformatics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/galaxy-project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
